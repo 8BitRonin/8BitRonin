@@ -18,7 +18,7 @@ public class HenriqueDiniz {
     String cargo     = "Estudante de Desenvolvimento de Sistemas";
     String foco      = "Backend Java";
     String cidade    = "Belo Horizonte, MG - Brasil";
-    String curso     = "Técnico em Desenvolvimento de Sistemas - SENAC (2026-2028)";
+    String curso     = "Técnico em Desenvolvimento de Sistemas";
     String objetivo  = "Desenvolvedor Backend | Segurança da Informação";
 
     String[] aprendendo = { "Java", "Spring Boot", "SQL", "Git", "HTML/CSS/JS" };
